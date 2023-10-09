@@ -76,10 +76,10 @@ Heart | `origins:textures/gui/community/silent/badge/shapes/shape_heart.png` | [
 Square | `origins:textures/gui/community/silent/badge/shapes/shape_square.png` | [Link](https://github.com/apace100/origins-fabric/blob/1.20/src/main/resources/assets/origins/textures/gui/community/silent/badge/shapes/shape_square.png)
 Star | `origins:textures/gui/badge/star.png` | [Link](https://github.com/apace100/origins-fabric/blob/1.18/src/main/resources/assets/origins/textures/gui/badge/star.png)
 Triangle | `origins:textures/gui/community/silent/badge/shapes/shape_triangle.png` | [Link](https://github.com/apace100/origins-fabric/blob/1.20/src/main/resources/assets/origins/textures/gui/community/silent/badge/shapes/shape_triangle.png)
-Triangle (Down) | `origins:textures/gui/community/silent/badge/shapes/triangle_down.png` | [Link](https://github.com/apace100/origins-fabric/blob/1.20/src/main/resources/assets/origins/textures/gui/community/silent/badge/shapes/triangle_down.png)
-Triangle (Left) | `origins:textures/gui/community/silent/badge/shapes/triangle_left.png` | [Link](https://github.com/apace100/origins-fabric/blob/1.20/src/main/resources/assets/origins/textures/gui/community/silent/badge/shapes/triangle_left.png)
-Triangle (Right) | `origins:textures/gui/community/silent/badge/shapes/triangle_right.png` | [Link](https://github.com/apace100/origins-fabric/blob/1.20/src/main/resources/assets/origins/textures/gui/community/silent/badge/shapes/triangle_right.png)
-Triangle (Up) | `origins:textures/gui/community/silent/badge/shapes/triangle_up.png` | [Link](https://github.com/apace100/origins-fabric/blob/1.20/src/main/resources/assets/origins/textures/gui/community/silent/badge/shapes/triangle_up.png)
+Pointed Triangle (Down) | `origins:textures/gui/community/silent/badge/shapes/triangle_down.png` | [Link](https://github.com/apace100/origins-fabric/blob/1.20/src/main/resources/assets/origins/textures/gui/community/silent/badge/shapes/triangle_down.png)
+Pointed Triangle (Left) | `origins:textures/gui/community/silent/badge/shapes/triangle_left.png` | [Link](https://github.com/apace100/origins-fabric/blob/1.20/src/main/resources/assets/origins/textures/gui/community/silent/badge/shapes/triangle_left.png)
+Pointed Triangle (Right) | `origins:textures/gui/community/silent/badge/shapes/triangle_right.png` | [Link](https://github.com/apace100/origins-fabric/blob/1.20/src/main/resources/assets/origins/textures/gui/community/silent/badge/shapes/triangle_right.png)
+Pointed Triangle (Up) | `origins:textures/gui/community/silent/badge/shapes/triangle_up.png` | [Link](https://github.com/apace100/origins-fabric/blob/1.20/src/main/resources/assets/origins/textures/gui/community/silent/badge/shapes/triangle_up.png)
 
 
 **Sun/Moon Icons**
@@ -87,7 +87,7 @@ Name | Sprite Location | Image
 -------|-----------------|:-----:
 Moon (First Quarter) | `origins:textures/gui/community/silent/badge/icons/sky/moon_first_quarter.png` | [Link](https://github.com/apace100/origins-fabric/blob/1.20/src/main/resources/assets/origins/textures/gui/community/silent/badge/icons/sky/moon_first_quarter.png)
 Moon (Full) | `origins:textures/gui/community/silent/badge/icons/sky/moon_full.png` | [Link](https://github.com/apace100/origins-fabric/blob/1.20/src/main/resources/assets/origins/textures/gui/community/silent/badge/icons/sky/moon_full.png)
-Moon (New) | `origins:textures/gui/community/silent/badge/icons/sky/moon_new.png` | [Link](https://github.com/apace100/origins-fabric/blob/1.20/src/main/resources/assets/origins/textures/gui/community/silent/badge/icons/sky/new.png)
+Moon (New) | `origins:textures/gui/community/silent/badge/icons/sky/moon_new.png` | [Link](https://github.com/apace100/origins-fabric/blob/1.20/src/main/resources/assets/origins/textures/gui/community/silent/badge/icons/sky/moon_new.png)
 Moon (Icon) | `origins:textures/gui/community/silent/badge/icons/moon_icon.png` | [Link](https://github.com/apace100/origins-fabric/blob/1.20/src/main/resources/assets/origins/textures/gui/community/silent/badge/icons/moon_icon.png)
 Moon (Third Quarter) | `origins:textures/gui/community/silent/badge/icons/sky/moon_third_quarter.png` | [Link](https://github.com/apace100/origins-fabric/blob/1.20/src/main/resources/assets/origins/textures/gui/community/silent/badge/icons/sky/moon_third_quarter.png)
 Moon (Waning Crescent) | `origins:textures/gui/community/silent/badge/icons/sky/moon_waning_crescent.png` | [Link](https://github.com/apace100/origins-fabric/blob/1.20/src/main/resources/assets/origins/textures/gui/community/silent/badge/icons/sky/moon_waning_crescent.png)
